@@ -13,4 +13,7 @@ const sumaNumeros = (nums, requiredSum) => {
   return false;
 };
 
-console.log(sumaNumeros([1, 5, 55, 11], 60));
+const nums = [7, 18, 3, 12];
+const requiredSum = 22;
+
+console.log(sumaNumeros(nums, requiredSum));

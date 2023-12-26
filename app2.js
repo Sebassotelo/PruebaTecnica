@@ -15,4 +15,7 @@ const suma = (nums, requiredSum) => {
   return false;
 };
 
-console.log(suma([1, 5, 55, 11, 6], 11));
+const nums = [4, 8, 3, 12];
+const requiredSum = 10;
+
+console.log(suma(nums, requiredSum));

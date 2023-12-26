@@ -23,5 +23,5 @@ que el tiempo de ejecución si importa y que el tiempo de desarrollo no es impor
 1. Asegúrate de tener Node.js 18.17.1 instalado en tu sistema.
 2. Clona este repositorio a tu máquina local: `git clone https://github.com/Sebassotelo/pruebaTecnica.git`
 3. Navega al directorio de los ejercicios: `cd pruebaTecnica`
-4. Configura los inputs de la funcion dentro del console.log
+4. Configura los inputs de las funciones
 5. Ejecuta el ejercicio: `node app1.js` o `node app2.js`
